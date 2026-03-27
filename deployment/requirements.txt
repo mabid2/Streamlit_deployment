@@ -1,0 +1,11 @@
+streamlit
+
+pandas
+
+plotly
+
+altair
+
+matplotlib
+
+seaborn
