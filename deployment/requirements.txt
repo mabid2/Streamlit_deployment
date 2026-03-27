@@ -9,3 +9,5 @@ altair
 matplotlib
 
 seaborn
+
+yfinance
